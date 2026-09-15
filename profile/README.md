@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/chetta-mark.svg" width="88" height="88" alt="ChettaPay" />
-
 # ChettaPay
 
 **Authentication and transaction infrastructure for Stellar and Solana applications.**
